@@ -1,0 +1,235 @@
+Profit percentage distribution
+
+
+
+Percentage    Asset
+
+100.0         Carrots
+100.0         Broccoli
+100.0         Cucumber
+100.0         Rape seed
+66.67         Safflower seed
+50.0         Cabbage
+50.0         Peppers
+50.0         Gherkins
+50.0         Currants
+50.0         Fibre crops
+50.0         Tow
+50.0         Grapes
+50.0         Lettuce
+50.0         Maize
+50.0         Pears
+50.0         Potatoes
+42.85         Almonds
+40.0         Banana
+40.0         Cherries
+40.0         Cow Peas
+40.0         Lemons
+40.0         Lentils
+40.0         Olives
+36.36         Strawberries
+33.33         Asparagus
+33.33         Broad beans
+33.33         Figs
+33.33         Citrus nes
+33.33         Grapefruit
+33.33         Groundnuts
+33.33         Persimmons
+33.33         Rice
+30.0         Truffle
+28.56         Canary seeds
+25.0         Badain
+25.0         Barley
+25.0         Horse beans
+25.0         Hops
+25.0         Lupin
+25.0         Mangoes
+25.0         Guavas
+25.0         Mushrooms
+23.07         Sugar Cane
+22.22         Linseed
+22.22         Onions
+20.0         Anise
+20.0         Coriander
+20.0         Berries
+20.0         Cauliflowers
+20.0         Chillies
+20.0         Stone nes
+20.0         Kiwi
+20.0         Kiwi
+20.0         Mustard>
+20.0         Pineapples
+16.66         Fennel
+16.66         Apricots
+16.66         Beans
+16.66         Flax
+16.66         Flax
+15.38         Sorghum
+15.0         Melon
+14.28         brassicas
+14.28         Chick Peas
+14.28         Papayas
+12.5         Apples
+12.5         Blueberries
+12.5         Chicory
+12.28         Turnips
+11.11         Mangosteens
+10.0         Oranges
+8.33         Millet
+7.14         Seed cotton
+0.0         Amonia
+0.0         Nitrate
+0.0         Urea
+0.0         Sodium nitrate
+0.0         Bone meal
+0.0         Bone black
+0.0         Manure salts
+0.0         Aldrin
+0.0         Aldicrab
+0.0         Carbarly
+0.0         Boric acid
+0.0         Boric acid
+
+
+
+Contribution to net profit
+
+
+8.80         Almonds
+3.96         Anise
+9.01         Badain
+9.23         Fennel
+5.28         Coriander
+15.83         Apples
+3.52         Apricots
+7.04         Asparagus
+9.23         Banana
+21.99         Barley
+3.08         Beans
+1.98         Blueberries
+2.64         Berries
+7.04         Broad beans
+10.99         Horse beans
+3.30         Cabbage
+8.80         brassicas
+15.83         Canary seeds
+3.52         Carrots
+8.80         Turnips
+6.60         Cauliflowers
+4.40         Broccoli
+7.70         Cherries
+7.04         Chick Peas
+2.64         Chillies
+2.64         Peppers
+4.62         Cow Peas
+5.28         Cucumber
+1.32         Gherkins
+2.64         Currants
+2.64         Fibre crops
+5.28         Figs
+3.08         Flax
+3.08         Flax
+3.96         Tow
+1.76         Citrus nes
+7.92         Stone nes
+5.28         Grapefruit
+0.44         Grapes
+5.28         Groundnuts
+2.86         Hops
+6.60         Lemons
+7.92         Kiwi
+7.92         Kiwi
+2.64         Lentils
+1.72         Lettuce
+3.96         Chicory
+4.84         Linseed
+4.40         Lupin
+0.88         Maize
+2.20         Mangoes
+4.40         Mangosteens
+1.10         Guavas
+10.99         Melon
+14.07         Mushrooms
+8.58         Truffle
+7.92         Mustard>
+2.46         Olives
+5.72         Millet
+14.51         Oranges
+19.35         Onions
+1.06         Papayas
+0.26         Pears
+0.53         Persimmons
+15.83         Pineapples
+6.60         Potatoes
+5.28         Rape seed
+8.80         Rice
+1.10         Safflower seed
+3.96         Seed cotton
+4.62         Sorghum
+6.60         Strawberries
+7.74         Sugar Cane
+0.00         Amonia
+0.00         Nitrate
+0.00         Urea
+0.00         Sodium nitrate
+0.00         Bone meal
+0.00         Bone black
+0.00         Manure salts
+0.00         Aldrin
+0.00         Aldicrab
+0.00         Carbarly
+0.00         Boric acid
+0.00         Boric acid
+
+
+
+List of weak assets
+
+
+
+Apples
+Blueberries
+brassicas
+Turnips
+Chick Peas
+Chicory
+Mangosteens
+Millet
+Oranges
+Papayas
+Seed cotton
+
+Total money to be redistributed: $154500
+
+
+Suggestion
+
+A redistribution of cost is necessary by increasing the quantity(pounds) of the following items:
+
+100    Carrots
+50    Broccoli
+125    Cucumber
+60    Rape seed
+20    Safflower seed
+200    Cabbage
+50    Peppers
+12    Gherkins
+60    Currants
+100    Fibre crops
+50    Tow
+125    Grapes
+60    Lettuce
+20    Maize
+200    Pears
+50    Potatoes
+12    Almonds
+60    Banana
+100    Cherries
+50    Cow Peas
+125    Lemons
+60    Lentils
+20    Olives
+
+New profit: $244,500
+old profit: $227,400
+Percentage increase: 7.52%
